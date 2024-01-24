@@ -13,5 +13,5 @@
 
 ### :man_technologist: About Me :
 <div align="center">
-  <img src="https://pin.it/4DO6Ppzow" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/YKqlkMgJWn7EX7ldaO/giphy.gif" width="600" height="300"/>
 </div>
