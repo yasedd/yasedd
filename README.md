@@ -13,5 +13,5 @@
 
 ### :man_technologist: About Me :
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F512777107566373013%2F&psig=AOvVaw2LKXMFOh0C_PkLdv8B_hpF&ust=1706195582424000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCVkYWo9oMDFQAAAAAdAAAAABAD" width="600" height="300"/>
+  <img src="https://pin.it/4DO6Ppzow" width="600" height="300"/>
 </div>
