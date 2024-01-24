@@ -11,7 +11,7 @@
 </h1>
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdesigntemplate.io%2Ftemplates%2F2d-flat-character-illustration-of-cyber-security-illustration&psig=AOvVaw12mBo3x4WzJ9fB2yQMh9sd&ust=1706195413045000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjnpsCn9oMDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fdesigntemplate.io%2Ftemplates%2F2d-flat-character-illustration-of-cyber-security-illustration&psig=AOvVaw12mBo3x4WzJ9fB2yQMh9sd&ust=1706195413045000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjnpsCn9oMDFQAAAAAdAAAAABAE" width="600" height="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F512777107566373013%2F&psig=AOvVaw2LKXMFOh0C_PkLdv8B_hpF&ust=1706195582424000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCVkYWo9oMDFQAAAAAdAAAAABAD" width="600" height="300"/>
 </div>
