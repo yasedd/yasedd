@@ -22,4 +22,4 @@
 - 🚀 Fueled by a desire for continuous learning and equipped with adept problem-solving skills.
 - 🛡️ Excited to contribute to the protection and defense of digital environments against emerging threats.
 - 💬 Let's connect and collaborate in the ever-evolving world of cybersecurity! 
-  - 🌐 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  - 🌐 LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-eddouche-79b750248/)
