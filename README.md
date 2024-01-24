@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/YKqlkMgJWn7EX7ldaO/giphy.gif" width="300" height="300"/>
 </div>
-I am a Cybersecurity student [![Cybersecurity GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)] from Morocco.
+I am a Cybersecurity student from Morocco 🇲🇦.
 
 - 🔐 Dedicated cybersecurity student with a deep passion for the dynamic and ever-evolving landscape of digital security.
 - 🕵️‍♂️ Relentless curiosity and commitment to excellence drive me to explore the intricacies of cybersecurity.
