@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/yasser-eddouche-79b750248/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 <!-- <img src="https://komarev.com/ghpvc/?username=yasedd&style=flat-square&color=blue" alt=""/> -->
-<h1>
+<h1 align="center>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -15,6 +15,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/YKqlkMgJWn7EX7ldaO/giphy.gif" width="300" height="300"/>
 </div>
+---
 I am a Cybersecurity student from Morocco 🇲🇦.
 
 - 🔐 Dedicated cybersecurity student with a deep passion for the dynamic and ever-evolving landscape of digital security.
