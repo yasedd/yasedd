@@ -49,4 +49,4 @@ I am a Cybersecurity student from Morocco 🇲🇦.
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasedd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasser-eddouche&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
